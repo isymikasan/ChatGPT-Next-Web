@@ -613,7 +613,7 @@ export function Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT Next</div>
           <div className={styles["sidebar-sub-title"]}>
-            Build your own AI assistant.
+             Your own AI assistant. By ISYMIKASAN
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
